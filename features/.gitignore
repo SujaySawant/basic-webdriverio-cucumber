@@ -1,0 +1,4 @@
+allure-report/
+reports/
+node_modules/
+local.log
